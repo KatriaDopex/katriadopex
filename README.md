@@ -1,5 +1,5 @@
 <h1 align="center">˖° hi i'm katria. ⋆˚✿ </h1>
-<h3 align="center">. ݁₊ ⊹ ݁24 y/o dev from toronto, canada ⋆˚࿔ </h3>
+<h3 align="center">. ݁₊ 24 y/o dev from toronto, canada ⋆˚࿔ </h3>
 
 𓆝𓆟𓆞𓆝𓆟𓆞
 
