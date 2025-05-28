@@ -32,7 +32,7 @@
  𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞
 
 ### ⊹ reach me
-telegram: [@YOUR_HANDLE_HERE](https://t.me/YOUR_HANDLE_HERE)
+telegram: [@getwickedwit]([https://t.me/YOUR_HANDLE_HERE](https://t.me/getwickedwit))
 
   𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞
 
