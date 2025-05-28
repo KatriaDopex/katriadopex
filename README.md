@@ -1,9 +1,9 @@
-<h1 align="center">heyo. i'm katria.</h1>
-<h3 align="center">24 y/o dev from toronto, canada</h3>
+<h1 align="center">˖° hi i'm katria. ⋆˚✿ </h1>
+<h3 align="center">. ݁₊ ⊹ ݁24 y/o dev from toronto, canada ⋆˚࿔ </h3>
 
 𓆝𓆟𓆞𓆝𓆟𓆞
 
-### ⊹ current focus
+### ⊹ my current focus
 - building [`cutepanel`](https://github.com/KatriaDopex/Cute-Panel)
 - learning more about **infra & scaling**, multi-agent orchestration
 - looking for contributors who care about clean design & terminal UX
