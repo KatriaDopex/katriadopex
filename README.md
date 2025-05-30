@@ -24,23 +24,16 @@
 - learning more about **infra & scaling**, multi-agent orchestration
 - looking for contributors who care about clean design & terminal UX
 
- 𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞
-
 ### ⊹ ask me about
 `solana` ⭑ `rust` ⭑ `typescript` ⭑ `langchain` ⭑ toronto ramen spots
 
- 𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞
-
 ### ⊹ reach me
 telegram: [@getwickedwit]([https://t.me/YOUR_HANDLE_HERE](https://t.me/getwickedwit))
-
-  𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞
 
 ### ⊹ fun fact
 > i’ve rewritten the same CLI tool three times.  
 > each version hits different. maybe one day it'll be perfect.
 
-  𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞𓆝𓆟𓆞
 
 ### ⊹ languages & tools
 <p align="left">
