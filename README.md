@@ -35,7 +35,7 @@ telegram: [@getwickedwit]([https://t.me/YOUR_HANDLE_HERE](https://t.me/getwicked
 > each version hits different. maybe one day it'll be perfect.
 
 
-### ⊹ languages & tools
+### ⊹ main languages & tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
