@@ -37,7 +37,7 @@
 - Open to collaboration, mentorship, and technical discussions
 
 ### Fun Fact
-> I’ve rewritten the same CLI tool three times — each iteration deeper and more refined. Perfection is a journey, not a destination.
+> I’ve rewritten the same CLI tool three times. :P
 
 ---
 
