@@ -22,7 +22,7 @@
 </div>
 
 ### Current Focus
-- Developing [`cutepanel`](https://github.com/KatriaDopex/Cute-Panel), a project focused on clean and efficient terminal interfaces
+- One of the main developers at [`cutepanel`](https://github.com/KatriaDopex/Cute-Panel). AI agent for automated social media management and on-chain actions via Solana.
 - Exploring infrastructure design, scaling strategies, and multi-agent orchestration
 - Collaborating with contributors dedicated to clean design and UX in CLI tools
 
@@ -61,29 +61,9 @@
 
 ---
 
-### Stats & Analytics
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=katriadopex&show_icons=true&theme=radical" alt="Katria's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=katriadopex&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### Recent Blog Posts & Thoughts  
-*(Coming soon — stay tuned)*
+*(Currently writing a blog detailing the process behind creating your own AI agents & what they're really capable of.)*
 
 ---
 
-### Quotes That Inspire Me
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
-> "Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson  
-
----
-
-*Thanks for stopping by. Feel free to connect!*
-
+> "The best way to predict the future is to invent it." — Alan Kay
