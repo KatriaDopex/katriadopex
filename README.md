@@ -33,7 +33,7 @@
 - Optimizing developer experience in terminal environments
 
 ### Contact & Socials
-- Telegram: [@getwickedwit](https://t.me/getwickedwit)
+- X: https://x.com/youkaichao
 - Open to collaboration, mentorship, and technical discussions
 
 ### Fun Fact
